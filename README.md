@@ -17,7 +17,7 @@ Supports min and max heap types.
 4. Exit
 ```
 
-Enqueue and Dequeue also displays tree height and different types of walks
+Enqueue and Dequeue add or remove to the tree and also displays tree height and different types of walks
 ```
 Current tree (height 2)
 Level order walk: 3 3 2 1 1 
